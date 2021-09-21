@@ -21,7 +21,7 @@ const PHN_INCH = "Following-:"
 const PHN_PIX = "URL-:"
 const PHN_VPIX = "Type-:"
 const PHN_CREAT = "Created at-:"
-const NOT_FOUND = "*Can't Find Anything!.*"
+const NOT_FOUND = "*Couldn't find anything!*"
 
 
 
