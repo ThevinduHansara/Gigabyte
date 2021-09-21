@@ -1,1 +1,1 @@
-#Gigabyte by Thevindu Hansara
+#Gigabyte
