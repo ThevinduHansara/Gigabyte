@@ -44,7 +44,7 @@ Asena.addCommand({ pattern: 'twt ?(.*)', fromMe: true,  dontAddCommandList: fals
   },
 )
 
-Asena.addCommand({ pattern: 'show ?(.*)', fromMe: td , desc: Lang.SHOW}, async (message, match) => {
+Asena.addCommand({ pattern: 'show ?(.*)', fromMe: true , desc: Lang.SHOW}, async (message, match) => {
 
     const userName = match[1]
 
