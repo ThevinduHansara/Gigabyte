@@ -13,8 +13,8 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
     var inblock_off = ''
     if (config.LANG == 'EN') {
         inblock_dsc = 'Inbox Block'
-        alr_on = '*Inbox Block System - ON*'
-        alr_off = '*Inbox Block System - OFF*'
+        alr_on = '*Inbox Block System Already ON!*'
+        alr_off = '*Inbox Block System Already OFF!'
         inblock_on = '*Inbox Block System Turned ON!*'
         inblock_off = '*Inbox Block System Turned OFF!*'
     }
