@@ -1,1 +1,1 @@
-<center>Share your suggestions here : <url>https://form.responster.com/b5cRgr</url>
+Share your suggestions here : <center><url>https://form.responster.com/b5cRgr</url>
